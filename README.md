@@ -11,4 +11,4 @@ This has a two-fold role:
 
 ## Installation
 This module comes preinstalled/bundled with `redpill-load`. If you're a developer, and you're creating a custom fork you
-should use index URL of `http://raw.githubusercontent.com/RedPill-TTG/redpill-boot-wait/master/rpext-index.json`
+should use index URL of `https://raw.githubusercontent.com/RedPill-TTG/redpill-boot-wait/master/rpext-index.json`
